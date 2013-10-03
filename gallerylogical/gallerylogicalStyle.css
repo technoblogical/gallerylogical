@@ -1,0 +1,23 @@
+ol, .hidden{
+	display:none;
+}
+.gallerylogicalBigBox{
+	width:406px;
+	height:406px;
+	float:right;
+	padding:0px;
+	margin:10px;
+	background-size: 350px;
+	background-repeat:no-repeat;
+	background-position: center;
+}
+.gallerylogicalLittleBoxes{
+	width:80px;
+	height:80px;
+	padding:0px;
+	margin:1px;
+	float:left;
+	background-size:70px;
+	background-repeat:no-repeat;
+	background-position: center;
+}
